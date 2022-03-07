@@ -1,7 +1,7 @@
 ### Opa, bao? sou o Bruno
 
 
-- 🔭 Apaixonado por tecnologia
+
 - 🌱 Estudante Sistemas da Informação
 <div align="center">
   <a href="https://github.com/brunopires002">
