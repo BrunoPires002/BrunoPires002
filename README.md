@@ -2,7 +2,7 @@
 
 
 
-- 🌱 Formado em Desenvolvimento de sistemas.
+- 🌱 Formado em Desenvolvimento de Sistemas.
 - 🌱 Estudante de Sistemas de Informação.
   
 <div align="center">
